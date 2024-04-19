@@ -1,0 +1,14 @@
+C:\Works\odevler\bin\Debug\net8.0\odevler.exe
+C:\Works\odevler\bin\Debug\net8.0\odevler.deps.json
+C:\Works\odevler\bin\Debug\net8.0\odevler.runtimeconfig.json
+C:\Works\odevler\bin\Debug\net8.0\odevler.dll
+C:\Works\odevler\bin\Debug\net8.0\odevler.pdb
+C:\Works\odevler\obj\Debug\net8.0\odevler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\odevler\obj\Debug\net8.0\odevler.AssemblyInfoInputs.cache
+C:\Works\odevler\obj\Debug\net8.0\odevler.AssemblyInfo.cs
+C:\Works\odevler\obj\Debug\net8.0\odevler.csproj.CoreCompileInputs.cache
+C:\Works\odevler\obj\Debug\net8.0\odevler.dll
+C:\Works\odevler\obj\Debug\net8.0\refint\odevler.dll
+C:\Works\odevler\obj\Debug\net8.0\odevler.pdb
+C:\Works\odevler\obj\Debug\net8.0\odevler.genruntimeconfig.cache
+C:\Works\odevler\obj\Debug\net8.0\ref\odevler.dll
